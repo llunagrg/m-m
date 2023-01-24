@@ -1,0 +1,41 @@
+.container
+{
+    width: 100%;
+}
+.topnav
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.logo img
+{
+    width: 15%;
+    height: auto;
+    margin-left: 310px;
+}
+.search
+{
+    padding-top: 40px;
+    font-size: 23px;
+}
+.shop
+{
+    padding-top: 40px;
+    font-size: 23px;
+}
+.navbar {
+    width: 100%;
+    margin-left: 430px;
+}
+.navbar li
+{
+    text-align: center;
+}
+.navbar ul li 
+{
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+  padding: 10px;
+}
